@@ -1,9 +1,13 @@
 [Desktop Entry]
+Type=Application
+Version=1.0
 Name=Pulse
 Comment=A living notch for Windows (Linux native edition)
-Exec=pulse
+Exec=/home/ram/Apps/Notch/run.sh
 Icon=pulse
 Terminal=false
-Type=Application
 Categories=Utility;Graphics;
+Keywords=notch;living;windows;trackpad;
 X-GNOME-Autostart-enabled=true
+X-Autostart-TriggerPolicy=required
+MimeType=text/x-shellscript;
