@@ -1,0 +1,10 @@
+{
+  "mode": "gtk",
+  "zoom": 1.0,
+  "music_dir": "src/resources/data/music",
+  "lyrics": "on",
+  "timer": "off",
+  "volume": "on",
+  "cat_eyes": "on",
+  "show_playlist": "on"
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Pulse
+Comment=A living notch for Windows (Linux native edition)
+Exec=pulse
+Icon=pulse
+Terminal=false
+Type=Application
+Categories=Utility;Graphics;
+X-GNOME-Autostart-enabled=true
