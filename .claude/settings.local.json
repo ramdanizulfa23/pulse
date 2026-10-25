@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -)",
+      "Bash(python3 -m py_compile main.py)",
+      "Bash(export PYTHONPATH=/home/ram/Apps/Notch/src)",
+      "Bash(timeout 4 python3 src/main.py --no-tray)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(export PYTHONPATH=./src)",
+      "Bash(python3 -m py_compile src/app.py)",
+      "Bash(echo \"app.py compile: $?\")",
+      "Bash(python3 -c ' *)",
+      "Bash(timeout 6 python3 src/main.py --no-tray)"
+    ]
+  }
+}
